@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maay-h
 - 👀 I’m interested in a lot of extracurriculars.
-- 🌱 I’m currently learning coding in c , python and java,css.html,javascript
+- 🌱 I’m currently learning coding in c,python,java,css,html,javascript
 - 💞️ I’m looking to collaborate with startups
 - 📫 How to reach me madhuryaraghavan@gmail.com
 - 😄 Pronouns: she/her
